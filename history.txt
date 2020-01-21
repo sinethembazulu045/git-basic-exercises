@@ -1,0 +1,514 @@
+    1  sudo apt install synaptic
+    2  sudo apt install /home/recruit/Downloads/google-chrome-stable_current_amd64
+    3  gcc --version
+    4  sudo apt install openjdk-11-jdk
+    5  sudo apt update
+    6  sudo apt software-properties-common apt-transport-https wget
+    7  sudo apt install software-properties-common apt-transport-https wget
+    8  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+    9  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+   10  sudo apt update
+   11  sudo apt install code
+   12  cd /home/recruit/Documents/
+   13  date
+   14  cal
+   15  df
+   16  free
+   17  pwd
+   18  cd .
+   19  cd ..
+   20  cd /home/recruit/Documents/
+   21  ls
+   22  cd ..
+   23  pwd
+   24  cd Documents
+   25  cd .
+   26  cd ..
+   27  cd ./bin
+   28  cd usr/bin
+   29  cd /usr/bin
+   30  cd ..
+   31  pwd
+   32  cd ..
+   33  pwd
+   34  cd /home
+   35  pwd
+   36  cd /home/recruit
+   37  pwd
+   38  cd -
+   39  pwd
+   40  cd -
+   41  pwd
+   42  cd -
+   43  pwd
+   44  cd /usr/bin/
+   45  cd ~user_name
+   46  cd ~recruit
+   47  pwed
+   48  pwd
+   49  cd /usr/bin/
+   50  cd ~recruit
+   51  pwd
+   52  ls
+   53  cd -
+   54  ls
+   55  ls /Downloads
+   56  ls /downloads
+   57  pwd
+   58  ls
+   59  ls ~/usr
+   60  ls /usr
+   61  ls ~/usr
+   62  pwd
+   63  ls
+   64  cd ./Downloads
+   65  ls
+   66  ls -l
+   67  ls /usr
+   68  ls /usr
+   69  cd /recruit
+   70  cd recruit
+   71  pwd
+   72  cd ~recruit
+   73  cd ./bincd -
+   74  pwd
+   75  cd ./bin
+   76  ls ~/usr
+   77  ls /usr
+   78  pwd
+   79  cd /Documents
+   80  ls
+   81  cd Downloads
+   82  ls
+   83  cd..
+   84  cd ..
+   85  time
+   86  date
+   87  cd Downloads
+   88  ls -l
+   89  ls -lt
+   90  ls -lt --reverse
+   91  ls -l
+   92  ls -lt
+   93  file Linux Commands
+   94  file Linux Commands.pdf
+   95  ls
+   96  file 123
+   97  file 'Linux Commands.pdf'
+   98  cd -
+   99  cd /var
+  100  ls -lt
+  101  cd -
+  102  ls -lt
+  103  cd /Documents
+  104  cd Documents
+  105  ls -lt
+  106  ls | grep HelloWorld
+  107  javac HelloWorld.java
+  108  ls | grep HelloWorld
+  109  java HelloWorld
+  110  jshell
+  111  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:42931 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  112  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:33601 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  113  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:33145 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  114  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:45491 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  115  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:41695 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  116  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:38349 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  117  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:40807 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  118  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:41971 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  119  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  120  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:37453 -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_d9d2f/jdt_ws/jdt.ls-java-project/bin HelloWorld 
+  121  sudo snap install intellij-idea-community --classic
+  122  date
+  123  pwd
+  124  ls -lt
+  125  cd IdeaProjects
+  126  ls l
+  127  ls -l
+  128  cd JavaProject
+  129  ls -l
+  130  jvm -V
+  131  java -version
+  132  java11 JavaProject.iml
+  133  javac Challenge.java
+  134  cd src
+  135  javac Challenge.java
+  136  java Challenge.java
+  137  java Challenge
+  138  java Challenge.java
+  139  javac Challenge.java
+  140  java Challenge
+  141  javac Challenge.java
+  142  java Challenge
+  143  date
+  144  cal
+  145  javac Challenge.java
+  146  java Challenge
+  147  date
+  148  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  149  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  150  123456r
+  151  12345r
+  152  sudo apt-get update && sudo apt-get upgrade
+  153  sudo apt-get dist-upgrade
+  154  sudo apt-get install git terminator openssh-client openssh-server gitk tree
+  155  sudo apt-get install build-essential python-dev python-setuptools python-pip python-smbus
+  156  sudo apt-get install libncursesw5-dev libgdbm-dev libc6-dev
+  157  sudo apt-get install zlib1g-dev libsqlite3-dev tk-dev
+  158  sudo apt-get install libssl-dev openssl
+  159  sudo apt-get install libffi-dev
+  160  sudo apt-get install zsh
+  161  cd ~/.oh-my-zsh/plugins/
+  162  git clone https://github.com/djui/alias-tips.git
+  163  cd ~/.oh-my-zsh/plugins/
+  164  git clone https://github.com/djui/alias-tips.git
+  165  plugins = (
+  166  )
+  167  cd /usr/src
+  168  sudo wget https://www.python.org/ftp/python/3.7.4/Python-3.7.4.tgz
+  169  sudo tar xzf Python-3.7.4.tgz
+  170  cd Python-3.7.4
+  171  sudo ./configure --enable-optimizations
+  172  sudo make altinstall
+  173  python3.7 -V
+  174  Python-3.7.4
+  175  python3.7 -V
+  176  sudo apt install python-pip
+  177  sudo apt install python3-pip
+  178  sudo -H pip install virtualenvwrapper
+  179  nano ~/.zshrc
+  180  ls
+  181  ls /usr/local/
+  182  ls -a
+  183  ls -l
+  184  ls -lt
+  185  ls -lr
+  186  cd ~/Documents
+  187  pwd
+  188  cd ..
+  189  cd
+  190  mkdir foo
+  191  Is -1
+  192  ls -l
+  193  ls
+  194  pwd
+  195  mkdir workspace
+  196  cd new directory
+  197  mkdir workspace
+  198  cd new directory
+  199  mkdir workspace
+  200  cd workspace
+  201  ls
+  202  touch [README.md]
+  203  cp README.md CHANGELOG.md
+  204  cp [README.md CHANGELOG.md]
+  205  cp [README.md] CHANGELOG.md
+  206  ls
+  207  touch excercise.md
+  208  ls
+  209  mv excercise.md /tmp
+  210  rm /tmp/excercise.md
+  211  ls
+  212  cat >umuzi.md
+  213  cat >recruits.md
+  214  cat >cohort.md
+  215  echo "It's nice to be part of umuzi" > umuzi.md
+  216  cat umuzi.md
+  217  echo "I enjoyed working with recruits from defferent departments" >recruits.md
+  218  recruits.md
+  219  Cat recruits.md
+  220  cat recruits.md
+  221  echo "Cohort20 is the most amazing group ever" >cohort.md
+  222  cat cohort.md
+  223  cat umuzi.md recruits.md cohort.md
+  224  cat umuzi.md recruits.md cohort.md > summary.md
+  225  cat summary.md
+  226  echo 'The End' >> summary.md
+  227  cat summary.md
+  228  locate umuzi
+  229  sudo updatedb
+  230  locate umuzi
+  231  ls
+  232  touch search_result.md
+  233  locate umuzi > search_result.md
+  234  cat search_result.md
+  235  ls
+  236  cd Documents
+  237  touch pad.md
+  238  ls
+  239  cd ~/Desktop
+  240  mkdir work
+  241  ls
+  242  clear
+  243  ls
+  244  cd
+  245  ls
+  246  pwd
+  247  mkdir workspace
+  248  cd workspace
+  249  ls
+  250  touch [README.MD]
+  251  cp [README.md] CHANGELOG.md
+  252  touch [README.md]
+  253  cp [README.md] CHANGELOG.md
+  254  touch excercise.md
+  255  find ~ *.pdf
+  256  find ~/ -name *.pdf
+  257  find ~/ -a *.pdf
+  258  mkdir previous_search 
+  259  cd previous_search
+  260  cp /home/recruit/Downloads *.pdf ~/previous_search
+  261  cp /home/recruit/Downloads ~/previous_search
+  262  mv /home/recruit/Downloads ~/previous_search
+  263  ls
+  264  cat previous_search
+  265  cd previous_search
+  266  cd
+  267  cd ~/previous_search
+  268  ls
+  269  cd
+  270  mv /home/recruit/Downloads ~/previous_search
+  271  cp /home/recruit/Downloads ~/previous_search
+  272  cd..
+  273  cd
+  274  ls
+  275  find ~/ -name *.pdf
+  276  find~/ -name*.pdf > search
+  277  find ~/ -name *.pdf > search
+  278  cat search
+  279  find -type f -mtime -1
+  280  find -mtme -1 ls
+  281  find -mtime -1 ls
+  282  find -mtime -1 -ls
+  283  find -mtime 0 -ls
+  284  find -mtime 1 -ls
+  285  find -mtime -1 -ls
+  286  find . -type f -newermt 2020-01-16 -ls
+  287  nano my_bio.md
+  288  ls
+  289  mkdir my_filemd
+  290  mkdir my_file.md
+  291  mv my_bio.md my_file.md
+  292  cd Music
+  293  mkdir Thato
+  294  df
+  295  cd ..
+  296  df
+  297  sudo unmount /media/recruit/'718A-E1CF'
+  298  sudo unmount /dev/sdc1
+  299  sudo dd bs=4m if=/home/recruit/Downloads/ubuntu-18.04.3-desktop-amd64.iso of=/dev/sdc1 status=progress oflag=sync
+  300  sudo dd bs=4M if=/home/recruit/Downloads/ubuntu-18.04.3-desktop-amd64.iso of=/dev/sdc1 status=progress oflag=sync
+  301  sudo nano /etc/crontab
+  302  shutdown now
+  303  sudo apt update
+  304  sudo apt install git.
+  305  git --version
+  306  git-basic-exercises
+  307  mkdir git-basic-exercises
+  308  cd
+  309  ls -a
+  310  cd git-basic-exercises
+  311  ls -a
+  312  git unit
+  313  git init
+  314  ls-a
+  315  ls -a
+  316  git status
+  317  touch README.md
+  318  ls -a
+  319  gitstatus
+  320  git status
+  321  git log
+  322  git add README.md
+  323  git status
+  324  git rm --cached <file>...
+  325  git rm --cached README.md
+  326  git status
+  327  git add README.md
+  328  git commit -m "initial commit"
+  329  git config --global user.email "you@example.com"
+  330  git config --global user.email "sinethemba.zulu@umuzi.org"
+  331  git config --global user.name  "sinethembazulu045"
+  332  git commit -m "initial commit"
+  333  git log
+  334  q
+  335  nano README.md
+  336  cat README.md
+  337  git stats
+  338  git status
+  339  git commit -a
+  340  cd git-basic-exercises
+  341  nano README.md
+  342  git status
+  343  git commit -a
+  344  nano README.md
+  345  cat README.md
+  346  git commit -a
+  347  git log
+  348  q
+  349  mkdir git-basic-exercises
+  350  rm git-basic-exercises
+  351  rm ~/basic-exercises
+  352  rm /home/recruit/basic-exercises
+  353  mkdir git-basic-exercises
+  354  cd git-basic-exercises
+  355  ls -a
+  356  git inite
+  357  git init
+  358  ls -a
+  359  git status
+  360  touch README.md
+  361  ls -a
+  362  git status
+  363  git log
+  364  git add README.md
+  365  git status
+  366  git rm --cached README.md
+  367  git commit -m "initial commit"
+  368  git commit -a
+  369  git rm --cached README.md
+  370  git add README.md
+  371  git commit -m "initial commit"
+  372  git log
+  373  nano README.md
+  374  cat README.md
+  375  git status
+  376  git commit -a
+  377  git add .
+  378  git commit -m "my last commit"
+  379  git add .
+  380  git commit -a
+  381  git add .
+  382  git commit -m " third commit"
+  383  nano README.md
+  384  cat README.md
+  385  git log
+  386  git add
+  387  git add .
+  388  git commit -m "third commit"
+  389  cat README.md
+  390  git log
+  391  git checkout 83995f5dacd055a405c60b9848c52e5d060133a3
+  392  cat README.MD
+  393  cat README.md
+  394  git checkout master
+  395  cat README.md
+  396  git checkout
+  397  git branch
+  398  git branch milkshake-flavours
+  399  git branch
+  400  git checkout milkshake-flavours
+  401  git branch
+  402  nano milkshake.md
+  403  git status
+  404  git commit -m "added initial flavours"
+  405  git add .
+  406  git commit -m "added initial flavours"
+  407  git log
+  408  git checkout master
+  409  git branch history
+  410  git checkout history
+  411  git log
+  412  history > history.txt
+  413  git add .
+  414  git commit -m "added history"
+  415  git log
+  416  git checkout milkshake-flavours
+  417  git log
+  418  git add.
+  419  git add .
+  420  cat README.md
+  421  git add .
+  422  git commit -m "random readme changes"
+  423  nano README.md
+  424  git add .
+  425  git log
+  426  mkdir git-basic-exercises
+  427  cd git-basic-exercises
+  428  ls -a
+  429  git init
+  430  ls -a
+  431  git status
+  432  touch READMEmd
+  433  ls -a
+  434  rm READMEmd
+  435  ls -a
+  436  touch README.md
+  437  ls -a
+  438  git status
+  439  git log
+  440  git add .
+  441  git commit -m README.md
+  442  git status
+  443  git add README.md
+  444  git status
+  445  git rm --cached README.md
+  446  git commit -m "initial commit"
+  447  git log
+  448  nano README.md
+  449  cat README.md
+  450  git status
+  451  git add .
+  452  git commit -m "Second commit"
+  453  git add .
+  454  git commit -m "Third commit"
+  455  git log
+  456  nano README.md
+  457  git log
+  458  git checkout master
+  459  cat README.md
+  460  git log
+  461  clear
+  462  mkdir git-basic-exercises
+  463  cd ..
+  464  mkdir git-basic-exercises
+  465  cd git-basic-exercises
+  466  ls -a
+  467  git init
+  468  ls -a
+  469  git status
+  470  touch README.md
+  471  ls -a
+  472  git status
+  473  git log
+  474  git add .
+  475  git status
+  476  git rm --cached README.md
+  477  git status
+  478  git add .
+  479  git status
+  480  git commit -m "initial commit"
+  481  got log
+  482  git log
+  483  nano README.md
+  484  cat README.md
+  485  git status
+  486  git add .
+  487  git commit -m "Second commit"
+  488  git add .
+  489  git commit -m "third commit"
+  490  git log
+  491  git add .
+  492  git commit -m "third commit"
+  493  git add third commit
+  494  nano README.md
+  495  git add .
+  496  git commit -m "third commit"
+  497  git log
+  498  git checkout 52a832809e5f2824c288e1c0e9731ea471b795f5
+  499  cat README.md
+  500  git checkout master
+  501  cat README.md
+  502  git branch
+  503  git branch milkshake-flavours
+  504  git branch
+  505  git checkout milkshake-flavours
+  506  git branch
+  507  nano milkshakes.md
+  508  git status
+  509  git add .
+  510  git commit -m "added initial flavour"
+  511  git log
+  512  git checkout master
+  513  git log
+  514  history > history.txt
